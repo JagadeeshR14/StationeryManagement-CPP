@@ -1,4 +1,4 @@
-# STATIONERY MANAGEMENT SYSTEM USING OOPS & ADS
+# STATIONERY MANAGEMENT SYSTEM
 
 ## INTRODUCTION :
 The effective management of resources is crucial for operational efficiency and cost-effectiveness. 
