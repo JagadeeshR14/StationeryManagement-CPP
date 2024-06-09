@@ -21,10 +21,10 @@ Click [here](Written) to explore and/or access the written and system designs ba
 1. C++
 
 ## IMPLEMENTATION STEPS :
-1. Download the [Program](Program_files) files from the repository.
+1. Download the [Program files](Program_files) from the repository.
 2. And select which concept to run.
 3. Then run the corresponding code file in VSCode or in a online compiler.
-4. Verify the code and output from the [Document](Document_files) files.
+4. Verify the code and output from the [Document files.](Document_files)
 
 ## LABS :
 There are totally 11-Labs were developed.
