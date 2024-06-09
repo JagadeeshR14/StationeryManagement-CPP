@@ -34,25 +34,25 @@ Here the concept details were mentioned below.
 **Click .cpp to explore and access the lab's program file.
 Click .pdf to explore the lab's PDF format file.**
 
-1. Lab1 - [.cpp](Prograam_files/Lab1.cpp) / [.pdf](Document_files/Lab1.pdf) - OOPS Paradigm : Classes, Objects, Constructors and Destructors 
-2. Lab2_1 - [.cpp](Prograam_files/Lab2_1.cpp) / [.pdf](Document_files/Lab2_1.pdf) - Constant & Static member 
-3. Lab2_2 - [.cpp](Prograam_files/Lab2_2.cpp) / [.pdf](Document_files/Lab2_2.pdf) - Function overloading 
-4. Lab3 - [.cpp](Prograam_files/Lab3.cpp) / [.pdf](Document_files/Lab3.pdf) - Operator Overloading 
-5. Lab4 - [.cpp](Prograam_files/Lab4.cpp) / [.pdf](Document_files/Lab4.pdf) - Templates : Function Template, Class Template 
-6. Lab5_1 - [.cpp](Prograam_files/Lab5_1.cpp) / [.pdf](Document_files/Lab5_1.pdf) - Inheritance
-7. Lab5_2 - [.cpp](Prograam_files/Lab5_2.cpp) / [.pdf](Document_files/Lab5_2.pdf) - Run Time Polymorphism
-8. Lab6 - [.cpp](Prograam_files/Lab6.cpp) / [.pdf](Document_files/Lab6.pdf) - Exception handling
-9. Lab7 - [.cpp](Prograam_files/Lab7.cpp) / [.pdf](Document_files/Lab7.pdf) - AVL Tree
-10. Lab8 - [.cpp](Prograam_files/Lab8.cpp) / [.pdf](Document_files/Lab8.pdf) - Splay Tree
+1. Lab1 - [.cpp](Program_files/Lab1.cpp) / [.pdf](Document_files/Lab1.pdf) - OOPS Paradigm : Classes, Objects, Constructors and Destructors 
+2. Lab2_1 - [.cpp](Program_files/Lab2_1.cpp) / [.pdf](Document_files/Lab2_1.pdf) - Constant & Static member 
+3. Lab2_2 - [.cpp](Program_files/Lab2_2.cpp) / [.pdf](Document_files/Lab2_2.pdf) - Function overloading 
+4. Lab3 - [.cpp](Program_files/Lab3.cpp) / [.pdf](Document_files/Lab3.pdf) - Operator Overloading 
+5. Lab4 - [.cpp](Program_files/Lab4.cpp) / [.pdf](Document_files/Lab4.pdf) - Templates : Function Template, Class Template 
+6. Lab5_1 - [.cpp](Program_files/Lab5_1.cpp) / [.pdf](Document_files/Lab5_1.pdf) - Inheritance
+7. Lab5_2 - [.cpp](Program_files/Lab5_2.cpp) / [.pdf](Document_files/Lab5_2.pdf) - Run Time Polymorphism
+8. Lab6 - [.cpp](Program_files/Lab6.cpp) / [.pdf](Document_files/Lab6.pdf) - Exception handling
+9. Lab7 - [.cpp](Program_files/Lab7.cpp) / [.pdf](Document_files/Lab7.pdf) - AVL Tree
+10. Lab8 - [.cpp](Program_files/Lab8.cpp) / [.pdf](Document_files/Lab8.pdf) - Splay Tree
 11. Lab9_1 - [.pdf](Document_files/Lab9_1.pdf) - Study on Leftist Heaps and Binomial Heap 
-12. Lab9_2 - [.cpp](Prograam_files/Lab9_2.cpp) / [.pdf](Document_files/Lab9_2.pdf) - Heap tree using class Templates.
-13. Lab10_1 - [.cpp](Prograam_files/Lab10_1.cpp) / [.pdf](Document_files/Lab10_1.pdf) - Topological sorting
-14. Lab10_2 - [.cpp](Prograam_files/Lab10_2.cpp) / [.pdf](Document_files/Lab10_2.pdf) - BFS(Breadth First Search)Graph
-15. Lab10_3 - [.cpp](Prograam_files/Lab10_3.cpp) / [.pdf](Document_files/Lab10_3.pdf) - DFS(Depth First Search)Graph
-16. Lab11a_1 - [.cpp](Prograam_files/Lab11a_1.cpp) / [.pdf](Document_files/Lab11a_1.pdf) - Kruskal’s Algorithm
-17. Lab11a_2 - [.cpp](Prograam_files/Lab11a_2.cpp) / [.pdf](Document_files/Lab11a_2.pdf) - Prim’s Algorithm
-18. Lab11b_1 - [.cpp](Prograam_files/Lab11b_1.cpp) / [.pdf](Document_files/Lab11b_1.pdf) - Dijktras Algorithm
-19. Lab11b_2 - [.cpp](Prograam_files/Lab11b_2.cpp) / [.pdf](Document_files/Lab11b_2.pdf) - Bellman Ford Algorithm 
+12. Lab9_2 - [.cpp](Program_files/Lab9_2.cpp) / [.pdf](Document_files/Lab9_2.pdf) - Heap tree using class Templates.
+13. Lab10_1 - [.cpp](Program_files/Lab10_1.cpp) / [.pdf](Document_files/Lab10_1.pdf) - Topological sorting
+14. Lab10_2 - [.cpp](Program_files/Lab10_2.cpp) / [.pdf](Document_files/Lab10_2.pdf) - BFS(Breadth First Search)Graph
+15. Lab10_3 - [.cpp](Program_files/Lab10_3.cpp) / [.pdf](Document_files/Lab10_3.pdf) - DFS(Depth First Search)Graph
+16. Lab11a_1 - [.cpp](Program_files/Lab11a_1.cpp) / [.pdf](Document_files/Lab11a_1.pdf) - Kruskal’s Algorithm
+17. Lab11a_2 - [.cpp](Program_files/Lab11a_2.cpp) / [.pdf](Document_files/Lab11a_2.pdf) - Prim’s Algorithm
+18. Lab11b_1 - [.cpp](Program_files/Lab11b_1.cpp) / [.pdf](Document_files/Lab11b_1.pdf) - Dijktras Algorithm
+19. Lab11b_2 - [.cpp](Program_files/Lab11b_2.cpp) / [.pdf](Document_files/Lab11b_2.pdf) - Bellman Ford Algorithm 
 
 ## RESULTS :
 Click [here](Result) to explore all the screenshot Results/Outputs of Project.
