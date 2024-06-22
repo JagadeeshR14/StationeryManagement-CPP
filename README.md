@@ -35,10 +35,10 @@ Here the concept details were mentioned below.
 Click .pdf to explore the lab's PDF format file.**
 
 1. Lab1 - [.cpp](Program_files/Lab1.cpp) / [.pdf](Document_files/Lab1.pdf) - OOPS Paradigm : Classes, Objects, Constructors and Destructors 
-2. Lab2_1 - [.cpp](Program_files/Lab2_1.cpp) / [.pdf](Document_files/Lab2_1.pdf) - Constant & Static member 
+2. Lab2_1 - [.cpp](Program_files/Lab2_1.cpp) / [.pdf](Document_files/Lab2_1.pdf) - Constant and Static member 
 3. Lab2_2 - [.cpp](Program_files/Lab2_2.cpp) / [.pdf](Document_files/Lab2_2.pdf) - Function overloading 
 4. Lab3 - [.cpp](Program_files/Lab3.cpp) / [.pdf](Document_files/Lab3.pdf) - Operator Overloading 
-5. Lab4 - [.cpp](Program_files/Lab4.cpp) / [.pdf](Document_files/Lab4.pdf) - Templates : Function Template, Class Template 
+5. Lab4 - [.cpp](Program_files/Lab4.cpp) / [.pdf](Document_files/Lab4.pdf) - Templates : Function Template and Class Template 
 6. Lab5_1 - [.cpp](Program_files/Lab5_1.cpp) / [.pdf](Document_files/Lab5_1.pdf) - Inheritance
 7. Lab5_2 - [.cpp](Program_files/Lab5_2.cpp) / [.pdf](Document_files/Lab5_2.pdf) - Run Time Polymorphism
 8. Lab6 - [.cpp](Program_files/Lab6.cpp) / [.pdf](Document_files/Lab6.pdf) - Exception handling
@@ -62,8 +62,3 @@ The Stationery Management System (SMS) developed using Object-Oriented Programmi
 It leveraging the learning of every concepts in CPP(C++) with the stationery management system.
 C++ has proven to be an excellent choice for the implementation of this system due to its powerful OOP capabilities, performance efficiency, and robust standard library. 
 The language's support for advanced data structures and algorithms has enabled the development of a system that is both robust and flexible.
-
-
-
-
-
