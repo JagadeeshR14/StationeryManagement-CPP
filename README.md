@@ -15,7 +15,7 @@ This project is being used for study purposes in order to learn C++ using an eff
 This will cover every conceivable notion in the OOPS and ADS.
 Every concept will have its own output-rich document file and a code file.
 
-Click [here](Written) to explore and/or access the Written and Diagram files based on the Lab's.
+Click [here](Written) to explore and/or access the Written and Diagram files based on the Lab.
 
 ## PROGRAMMING LANGUAGE USED :
 1. C++
