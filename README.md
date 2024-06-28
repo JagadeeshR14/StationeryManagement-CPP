@@ -24,14 +24,15 @@ Click [here](Written) to explore and/or access the Written and Diagram files bas
 1. Download the [Program files](Program_files) from the repository.
 2. And select which concept to run.
 3. Then run the corresponding code file in VSCode or in a online compiler.
-4. Verify the code and output from the [Document files.](Document_files)
+4. Give the corresponding inputs for the compiled code.
+5. Verify the code, Input and output from the [Document files.](Document_files)
 
 ## LABS :
 There are totally 11-Labs were developed.
 Each lab is a concept of OOPS and ADS.
 Here the concept details were mentioned below.
 
-**Click .cpp to explore and access the lab's program file.
+**Click .cpp to access the lab's program file.
 Click .pdf to explore the lab's PDF format file.**
 
 1. Lab1 - [.cpp](Program_files/Lab1.cpp) / [.pdf](Document_files/Lab1.pdf) - OOPS Paradigm : Classes, Objects, Constructors and Destructors 
