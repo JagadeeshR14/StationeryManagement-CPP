@@ -24,7 +24,7 @@ Click [here](Written) to explore and/or access the Written and Diagram files bas
 1. Download the [Program files](Program_files) from the repository.
 2. And select which concept to run.
 3. Then run the corresponding code file in VSCode or in a online compiler.
-4. Give the corresponding inputs for the compiled code.
+4. Give the corresponding inputs for the compiled code if needed.
 5. Verify the code, Input and output from the [Document files.](Document_files)
 
 ## LABS :
